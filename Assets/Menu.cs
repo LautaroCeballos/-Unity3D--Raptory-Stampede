@@ -5,7 +5,7 @@ public class Menu : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		Debug.Log("Hola");
+		Debug.Log("Marcos");
 	}
 	
 	// Update is called once per frame
